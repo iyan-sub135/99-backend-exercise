@@ -4,3 +4,7 @@ env/
 # Ignore SQLite db files
 *.db
 /.idea/
+
+# Go files
+go.sum
+*.sum
